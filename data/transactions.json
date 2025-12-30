@@ -1,0 +1,12 @@
+{
+  "next_id": 2,
+  "transactions": [
+    {
+      "id": 1,
+      "amount": 5.0,
+      "category": "Food",
+      "description": "boyfrienddd",
+      "date": "2025-12-29"
+    }
+  ]
+}
